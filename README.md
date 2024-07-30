@@ -27,6 +27,9 @@ Obs. Collection disponível neste repositório
 ##Documentação
 http://localhost:{{portaDoMicroserviço}}/swagger-ui/index.html#/
 
+##Relatórios
+ - Para ver os pdfs de relatório ajustar o path no application.properties do serviço de monitoramento
+
 ## Sistema
 O sistema é composto por 3 microserviços que se comunicam entre si e se conversam através do eureka para facilitar a escalabilidade
 
