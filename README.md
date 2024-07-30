@@ -24,6 +24,9 @@ O sistema permite que condutores registrem o tempo de estacionamento, escolham e
 
 Obs. Collection disponível neste repositório
 
+##Documentação
+http://localhost:{{portaDoMicroserviço}}/swagger-ui/index.html#/
+
 ## Sistema
 O sistema é composto por 3 microserviços que se comunicam entre si e se conversam através do eureka para facilitar a escalabilidade
 
